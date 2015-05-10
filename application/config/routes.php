@@ -37,9 +37,9 @@
 | in the URL cannot be matched to a valid route.
 |
 */
-
-$route['default_controller'] = "welcome";
+$route['default_controller'] = 'overview';
 $route['404_override'] = '';
+$route['gigi/(:any)'] = 'overview/routed/$1';
 
 
 /* End of file routes.php */

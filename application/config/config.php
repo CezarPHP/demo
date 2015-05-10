@@ -16,7 +16,7 @@
 | environments.
 |
 */
-$config['base_url'] = '';
+$config['base_url'] = 'http://localhost/CI2.2_sandbox/';
 
 /*
 |--------------------------------------------------------------------------
@@ -226,7 +226,7 @@ $config['cache_path'] = '';
 | MUST set an encryption key.  See the user guide for info.
 |
 */
-$config['encryption_key'] = '';
+$config['encryption_key'] = 'HGGV%g^Tghsu83^%';
 
 /*
 |--------------------------------------------------------------------------
@@ -281,7 +281,7 @@ $config['cookie_secure']	= FALSE;
 | COOKIE data is encountered
 |
 */
-$config['global_xss_filtering'] = FALSE;
+$config['global_xss_filtering'] = TRUE;
 
 /*
 |--------------------------------------------------------------------------
