@@ -18,5 +18,6 @@ class Overview extends CI_Controller{
 
     public function routed($params1, $params2){
         echo $params1 . ' ' . $params2;
+
     }
 }
