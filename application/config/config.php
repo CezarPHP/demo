@@ -16,7 +16,7 @@
 | environments.
 |
 */
-$config['base_url'] = 'http://localhost/CI2.2_sandbox/';
+$config['base_url'] = 'http://greatza.boos.ro/jordy/';
 
 /*
 |--------------------------------------------------------------------------
