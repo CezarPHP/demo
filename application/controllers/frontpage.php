@@ -1,14 +1,14 @@
 <?php
-class Overview extends CI_Controller{
+class Frontpage extends CI_Controller{
 
     public function __construct(){
         parent::__construct();
     }
 
     public function index(){
-        echo current_url() . '<br>';
-        echo base_url() . '<br>';
-        echo site_url() . '<br>';
+        $this->load->view('header');
+        $this->load->view('front-page');
+        $this->load->view('footer');
     }
 
     public function detect_user(){
