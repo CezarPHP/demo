@@ -6,7 +6,7 @@ commit from branch1
 
 commit 2 from branch1
 
-commit 2 from master
+commit 2 from masterhjhjhjh
 
 master master master
 master master master
