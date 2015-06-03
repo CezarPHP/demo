@@ -7,6 +7,8 @@ commit from branch1
 commit 2 from branch1
 
 commit 2 from master
+
+master master master
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT
  *---------------------------------------------------------------
